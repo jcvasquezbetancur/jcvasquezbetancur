@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcvasquezbetancur 
 - 👀 I’m interested in . Data Science and AI applications
-- 🌱 I’m currently learning  Fusion transformers and NF Nets
+- 🌱 I'm currently learning at DS4All-Colombia programm by Correlation One.
 - 💞️ I’m looking to collaborate on DL uses
 - 📫 How to reach me  juan.vasquez8@udea.edu.co
 
